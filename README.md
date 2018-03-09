@@ -23,7 +23,7 @@ In this project I used Principal Component Analysis in the Variables and used th
 ## <i> From the m independent variables of your default dataset , PCA extracts p<=m new independent variables that explain the most , the variance of dataset , regardless of the dependant variable
 </i>
 
-## \# Since PCA considers dependant variable , it makes PCA unsupervised .
+## \# Since PCA considers dependent variable , it makes PCA unsupervised .
 
 [Link of the dataset](archive.ics.uci.edu/m/datasets/wine)
 
